@@ -1,0 +1,6 @@
+{
+  "name": "TREEBOUND",
+  "description": "Master the Tree. Master the Algorithm. Web game học cấu trúc dữ liệu cây nhị phân và thuật toán duyệt cây.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
